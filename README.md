@@ -1,6 +1,6 @@
 # Гостьовий будинок «Стара Русь»
 
-Live site: https://stararus.webart.work
+Live site: https://stararus.hotelup.work
 
 ## About
 «Стара Русь» — гостьовий будинок (`guest_house`) у Кам’янці-Подільському, вул. Івана Франка, 6А. Сторінка продає SMALL STAY + RESTAURANT + MEETING SPACE за формулою STAY · DINE · MEET; сценарії PARK → STAY → DINE → REST і MEET → DINE → STAY. Назва надихає лише стиль (Alegreya, пергамент, подвійна рамка, ✦) — жодних тверджень про історичну будівлю, садибу чи Старе місто.
